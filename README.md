@@ -6,12 +6,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&pause=1000&color=F8DA59&random=false&width=435&height=60&lines=Student+of+the+code..;..building+line+by+line." alt="Typing SVG" /></a>
 </p>
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width = 100%></picture>
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width = 100%></picture><br>
 
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-	
+<p>&nbsp;</p>
+
 ## **About me**
 
 <br>
@@ -62,12 +60,7 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>
-
-
 </p>
-
-<br>
-<br>
 
 -----
 
@@ -92,8 +85,6 @@
 
 -----
 
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
