@@ -1,5 +1,6 @@
 
 
+
 <h1 style="font-family: 'Source Code Pro', monospace; font-weight: 300;"><b> Hi , I'm David!</h1>
 
 <p>
@@ -86,7 +87,7 @@
 <a href="https://github.com/davidstudiocode/">
   <img src="https://github-readme-stats.vercel.app/api?username=davidstudiocode&show_icons=true&theme=dark" width="375" height="250" alt="davidstudiocode"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidstudiocode&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" height="250" alt="davidstudiocode"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidstudiocode&show_icons=true&locale=en&layout=compact&line_height=20&title_color=FFFFFF&icon_color=2234AE&text_color=D3D3D3&bg_color=151515" width="375" height="250" alt="davidstudiocode"/>
 </a>
 </div>
 
@@ -129,6 +130,9 @@
 <br>
 <br>
 <br>
+
+
+
 
 
 
