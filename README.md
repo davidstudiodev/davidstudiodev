@@ -3,7 +3,7 @@
 <h1 style="font-family: 'Source Code Pro', monospace; font-weight: 300;"><b> Hi , I'm David!</h1>
 
 <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&pause=1000&color=F8DA59&random=false&width=435&height=60&lines=Student+of+the+code..;..building+line+by+line." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://www.linkedin.com/in/davidstudiodev/overlay/background-image/" alt="Typing SVG" /></a>
 </p>
 
 <picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width = 100%></picture><br>
