@@ -6,7 +6,7 @@
     <a href="https://git.io/typing-svg"><img src="https://www.linkedin.com/in/davidstudiodev/overlay/background-image/" alt="Typing SVG" /></a>
 </p>
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width = 100%></picture><br>
+<picture> <img align="right" src="https://www.linkedin.com/in/davidstudiodev/overlay/background-image/" width = 100%></picture><br>
 
 <p>&nbsp;</p>
 
