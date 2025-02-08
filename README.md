@@ -13,10 +13,10 @@
 
 <br>
 
-- Full-Stack Developer & Designer – <i>Crafting seamless digital experiences with Vue.js, Node.js, Flask, Python, SQL, Linux, HTML, CSS, JavaScript, and SASS.<i/>
-- Designer & Illustrator – <i>Creating visually compelling designs and illustrations that enhance user experiences.<i/>
-- Problem Solver & Continuous Learner – <i>Constantly improving, refining skills, and staying updated to build efficient and elegant solutions.<i/>
-- Ethical & Determined – <i>Committed to excellence, honesty, and innovation, always striving for growth.<i/>
+🚀 Full-Stack Developer & Designer <br>
+🎨 Designer & Illustrator <br>
+🛡️ Cybersecurity Enthusiast <br>
+🧠 Problem Solver & Lifelong Learner
 
 <br><br>
 
