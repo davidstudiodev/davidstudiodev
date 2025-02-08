@@ -16,7 +16,8 @@
 🚀 Full-Stack Developer & Designer <br>
 🎨 Designer & Illustrator <br>
 🛡️ Cybersecurity Enthusiast <br>
-🧠 Problem Solver & Lifelong Learner
+🧠 Problem Solver & Lifelong Learner <br>
+🌐 Visit my portfolio: davidstudiodev.com
 
 <br><br>
 
@@ -121,25 +122,19 @@
 <br>
 <div align='left'>
 
-<ul>
 
-<li>
 <a href="https://www.linkedin.com/in/davidstudiosco/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  davidstudioscode-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 <br>
 
 <br>
 
-<li>
 <a href="mailto:davidstudiosco@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  davidstudiocode-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
-	
-</ul>
+
 </div>
 
 <br>
