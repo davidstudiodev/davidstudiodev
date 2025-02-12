@@ -13,7 +13,7 @@
 
 <br>
 
-🚀 Full-Stack Developer & Designer <br>
+🚀 Full-Stack Developer <br>
 🎨 Designer & Illustrator <br>
 🛡️ Cybersecurity Enthusiast <br>
 🧠 Problem Solver & Lifelong Learner <br>
