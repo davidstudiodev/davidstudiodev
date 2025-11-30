@@ -5,12 +5,9 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&pause=1000&color=7abdb3&random=false&width=600&height=50&lines=Learning,+growing,+and+coding...;...one+day+at+a+time." alt="Typing SVG" /></a>
 </p>
 
-
-
 <p>&nbsp;</p>
 
 ## **About me**
-
 <br>
 
 🚀 Full-Stack Developer <br>
@@ -20,8 +17,6 @@
 🌐 Visit my portfolio: https://davidstudiodev.com
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## **Skills**
 
@@ -86,9 +81,6 @@
 <br>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-
 ## **Github Stats**
 
 ![davidstudiodev's Stats](https://github-readme-stats.vercel.app/api?username=davidstudiodev&theme=radical&show_icons=true&hide_border=false&count_private=true) 
@@ -98,9 +90,6 @@
 ![davidstudiodev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidstudiodev&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 <br>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -122,11 +111,6 @@
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-
 
 
 
