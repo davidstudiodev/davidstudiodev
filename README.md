@@ -5,8 +5,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&pause=1000&color=7abdb3&random=false&width=600&height=50&lines=Learning,+growing,+and+coding...;...one+day+at+a+time." alt="Typing SVG" /></a>
 </p>
 
-<p>&nbsp;</p>
-
 ## **About me**
 <br>
 
@@ -38,7 +36,9 @@
   
 
 - **Frameworks**:
-
+  
+  [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
+  [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)
   ![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
   ![Vue](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
   ![Tailwind](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -62,6 +62,7 @@
   
 - **Softwares and Tools**:
 
+    [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
